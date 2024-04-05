@@ -1,0 +1,6 @@
+C:\Users\Adrien\source\repos\VCLauncherIO\bin\Debug\VCLauncherIO.dll
+C:\Users\Adrien\source\repos\VCLauncherIO\bin\Debug\VCLauncherIO.pdb
+C:\Users\Adrien\source\repos\VCLauncherIO\obj\Debug\VCLauncherIO.csproj.AssemblyReference.cache
+C:\Users\Adrien\source\repos\VCLauncherIO\obj\Debug\VCLauncherIO.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\VCLauncherIO\obj\Debug\VCLauncherIO.dll
+C:\Users\Adrien\source\repos\VCLauncherIO\obj\Debug\VCLauncherIO.pdb

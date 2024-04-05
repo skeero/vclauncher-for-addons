@@ -1,0 +1,6 @@
+C:\Users\Adrien\source\repos\VCLauncherInjector\bin\Debug\VCLauncherInjector.dll
+C:\Users\Adrien\source\repos\VCLauncherInjector\bin\Debug\VCLauncherInjector.pdb
+C:\Users\Adrien\source\repos\VCLauncherInjector\obj\Debug\VCLauncherInjector.csproj.AssemblyReference.cache
+C:\Users\Adrien\source\repos\VCLauncherInjector\obj\Debug\VCLauncherInjector.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\VCLauncherInjector\obj\Debug\VCLauncherInjector.dll
+C:\Users\Adrien\source\repos\VCLauncherInjector\obj\Debug\VCLauncherInjector.pdb

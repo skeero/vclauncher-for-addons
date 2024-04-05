@@ -1,0 +1,17 @@
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncher.exe.config
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncher.exe
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncher.pdb
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.csproj.AssemblyReference.cache
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.Properties.Resources.resources
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.csproj.GenerateResource.cache
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.exe
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.pdb
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncherInjector.dll
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncherInjector.pdb
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.csproj.Up2Date
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncherIO.dll
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncherIO.pdb
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncherNetworking.dll
+C:\Users\Adrien\source\repos\VCLauncher\bin\Debug\VCLauncherNetworking.pdb
+C:\Users\Adrien\source\repos\VCLauncher\obj\Debug\VCLauncher.MainWindow.resources

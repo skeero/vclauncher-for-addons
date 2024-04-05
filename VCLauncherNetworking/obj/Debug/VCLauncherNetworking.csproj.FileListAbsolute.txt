@@ -1,0 +1,6 @@
+C:\Users\Adrien\source\repos\VCLauncherNetworking\bin\Debug\VCLauncherNetworking.dll
+C:\Users\Adrien\source\repos\VCLauncherNetworking\bin\Debug\VCLauncherNetworking.pdb
+C:\Users\Adrien\source\repos\VCLauncherNetworking\obj\Debug\VCLauncherNetworking.csproj.AssemblyReference.cache
+C:\Users\Adrien\source\repos\VCLauncherNetworking\obj\Debug\VCLauncherNetworking.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\VCLauncherNetworking\obj\Debug\VCLauncherNetworking.dll
+C:\Users\Adrien\source\repos\VCLauncherNetworking\obj\Debug\VCLauncherNetworking.pdb
